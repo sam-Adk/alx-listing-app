@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ALX Listing App
 
 Simple starter for the ALX Listing App project.
@@ -13,3 +14,6 @@ Simple starter for the ALX Listing App project.
 - interfaces: TypeScript interfaces
 - constants: sample data
 - public/assets: images (put sample.jpg here)
+=======
+# alx-listing-app
+>>>>>>> 2512769bdc09805afd12221f3d2b700a3785842a

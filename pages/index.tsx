@@ -1,5 +1,5 @@
-import Card from "../components/common/card";
-import Button from "../components/common/button";
+import Card from "../components/common/Card";
+import Button from "../components/common/Button";
 import { SAMPLE_CARD } from "../constants";
 
 export default function Home() {
